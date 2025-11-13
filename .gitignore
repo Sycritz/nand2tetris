@@ -1,0 +1,11 @@
+# .gitignore
+*.hack
+*.cmp
+*.tst
+*.out
+*.log
+*.tmp
+__pycache__/
+*.class
+.DS_Store
+
